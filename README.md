@@ -1,6 +1,6 @@
 # SkillSync 🎯
 
-> Personalized learning roadmap generator — input your interests, skill level, daily availability, and career goals, get a phase-wise study plan with resources and estimated timelines.
+> Personalized learning roadmap generator - input your interests, skill level, daily availability, and career goals, get a phase-wise study plan with resources and estimated timelines.
 
 ---
 
@@ -21,9 +21,9 @@ And generates a **phase-wise learning roadmap** tailored to your inputs — what
 
 ## How it works
 
-1. **Input collection** — A guided form captures your interests, skill level, availability, and career goal.
-2. **Roadmap generation** — Based on your inputs, the system builds a multi-phase study plan with topics, resources, and projected durations.
-3. **Phase-wise output** — Each phase contains a focused set of topics, recommended resources, and an estimated completion time.
-4. **Customization** — Users can adjust their goals or availability and regenerate the roadmap.
+1. **Input collection** - A guided form captures your interests, skill level, availability, and career goal.
+2. **Roadmap generation** - Based on your inputs, the system builds a multi-phase study plan with topics, resources, and projected durations.
+3. **Phase-wise output** - Each phase contains a focused set of topics, recommended resources, and an estimated completion time.
+4. **Customization** - Users can adjust their goals or availability and regenerate the roadmap.
 
 ---
